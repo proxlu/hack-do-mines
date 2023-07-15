@@ -1,2 +1,2 @@
 # hack-do-mines
-Codigo fonte do hack do mines.
+Um hack para o jogo de cassino mines, gratuito.
